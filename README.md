@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geraldo Vilela</h1>
-<h3 align="center">I've been working with IT for about 8 years or soo, in the last 3 working as a developer using mainly C#/.net core and JS/Node.JS, I've worked in some market segments such as e-commerce/marketplace, cooperative insurance and also a trading platform, I currently do intermediate API integrations for chatbots.</h3>
+<h3 align="center">I've been working with IT for about 9 years or soo, in the last 4 working as a developer using mainly C#/.net core and JS/Node.JS, I've worked in some market segments such as e-commerce/marketplace, cooperative insurance and also a trading platform, I currently do intermediate API integrations for chatbots.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geraldovilela&label=Profile%20views&color=0e75b6&style=flat" alt="geraldovilela" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java/Spring Boot**
+- 🌱 I’m currently learning **Ruby/Rails**
 
-- 💬 Ask me about **React, .Net**
+- 💬 Ask me about **Js,React, C# and .Net**
 
 - 📫 How to reach me **geraldovilela19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/11yS2zBtQKlFGrF10RGlfObPFYlVKWWhz/view?usp=sharing](https://drive.google.com/file/d/11yS2zBtQKlFGrF10RGlfObPFYlVKWWhz/view?usp=sharing)
+- 📄 Know about my experiences [CV Here](https://drive.google.com/file/d/11yS2zBtQKlFGrF10RGlfObPFYlVKWWhz/view?usp=sharing)
 
 - ⚡ Fun fact **I really like dad jokes**
 
