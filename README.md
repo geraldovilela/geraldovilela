@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **geraldovilela19@gmail.com**
 
-- 📄 Know about my experiences [CV Here](https://drive.google.com/file/d/11yS2zBtQKlFGrF10RGlfObPFYlVKWWhz/view?usp=sharing)
+- 📄 Know about my experiences [CV Here](https://drive.google.com/file/d/11tXqaYoNROdhNlJ-h4yUQnO5Lowpf7H_/view?usp=sharing)
 
 - ⚡ Fun fact **I really like dad jokes**
 
