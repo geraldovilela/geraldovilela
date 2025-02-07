@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Geraldo Vilela</h1>
-<h3 align="center">I've been working with IT for about 10 years or soo, in the last 5 working as a developer using mainly C#/.net core and JS/Node.JS, I've worked in some market segments such as e-commerce/marketplace, cooperative insurance and also a trading platform, I currently do intermediate API integrations for chatbots.</h3>
+<h3 align="center">I've been working with IT for about 10 years or soo, in the last 5 working as a developer using mainly C#/.net,  JS/Node.JS and Ruby/RoR.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geraldovilela&label=Profile%20views&color=0e75b6&style=flat" alt="geraldovilela" /> </p>
 
